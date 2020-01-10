@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578681319 source:c:\labcp\1-cp-master\muth andrei dorin\tennismatch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
